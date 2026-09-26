@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "458079194600",
+    "project_id": "viaappvapi",
+    "storage_bucket": "viaappvapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458079194600:android:328f87be36fb536b52685d",
+        "android_client_info": {
+          "package_name": "com.softyug.viaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458079194600-guojielhg5kb2qha0jkp1di17uh165ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0VTNRrQGdS9OAHiwK0pyowlz5cl3DdZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458079194600-guojielhg5kb2qha0jkp1di17uh165ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458079194600-tdd9rcuaodc1tkagpr1sqqctkripqeat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.viaapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
